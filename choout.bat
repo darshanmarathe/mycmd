@@ -1,0 +1,2 @@
+choco list
+choco outdated 
