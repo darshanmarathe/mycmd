@@ -1,4 +1,4 @@
-J:
-cd J:\OpenSource\countdown_cli
+E:
+cd E:\OpenSource\countdown_cli
 cdl %1
 

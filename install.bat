@@ -5,6 +5,8 @@ call start %TEMP%
 pause
 call settime
 pause
+call powershell -ExecutionPolicy Bypass -c "irm https://herdr.dev/install.ps1 | iex"
+pause
 nvm install node --reinstall-packages-from=node
 pause
 nvm use node

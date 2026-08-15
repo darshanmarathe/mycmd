@@ -1,5 +1,5 @@
-J:
-call cdl J:\OpenSource\vibe-tasks
+E:
+call cdl E:\opensource\vibe-tasks
 echo "undo the changes"
 pause
 call reseth

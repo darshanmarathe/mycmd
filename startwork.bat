@@ -1,3 +1,3 @@
-I:
-cd I:\Work\Projects2025
+E:
+cd E:\MyProjects
 start .
